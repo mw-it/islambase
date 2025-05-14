@@ -17,3 +17,8 @@ It is suitable for children, adults, and especially for newly converted members 
     + [Tasbih](https://islambase.de/tasbih)
     + [99 Namen](https://islambase.de/99namen)
     + [Alphabet](https://islambase.de/alphabet)
+
+## Copyright + License
+Author: <a href="https://walid-moussa.de" target="_blank">Walid Moussa (MW)</a> | <a href="https://github.com/mw-it" target="_blank">Walid Moussa (MW) on GitHub</a>
+
+Creation released under the <a href="https://licenseforhumanity.org" target="_blank">License For Humanity</a>.
