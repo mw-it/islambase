@@ -25,6 +25,8 @@ Email: <a href="mailto:mail@islambase.de" target="_blank">Email</a>
 
 GitHub: <a href="https://github.com/mw-it/islambase" target="_blank">GitHub</a>
 
+Donation: <a href="https://donate.stripe.com/dR69BS7MA79l2ycfZ1" target="_blank">Donation-Link</a>
+
 ## Copyright + License
 Author: <a href="https://walid-moussa.de" target="_blank">Walid Moussa (MW)</a> | <a href="https://github.com/mw-it" target="_blank">Walid Moussa (MW) on GitHub</a>
 
