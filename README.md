@@ -15,5 +15,5 @@ It is suitable for children, adults, and especially for newly converted members 
     + [Dua / Dhikr](https://islambase.de/dua)
     + [Islamquiz](https://islambase.de/islamquiz)
     + [Tasbih](https://islambase.de/tasbih)
-    + [99 Namen](https://islambase.de/99namentasbih)
+    + [99 Namen](https://islambase.de/99namen)
     + [Alphabet](https://islambase.de/alphabet)
