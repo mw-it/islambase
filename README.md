@@ -18,6 +18,9 @@ It is suitable for children, adults, and especially for newly converted members 
     + [99 Namen](https://islambase.de/99namen)
     + [Alphabet](https://islambase.de/alphabet)
 
+## Find + Follow + Support
+Web: <a href="https://islambase.de" target="_blank">https://islambase.de</a>
+
 ## Copyright + License
 Author: <a href="https://walid-moussa.de" target="_blank">Walid Moussa (MW)</a> | <a href="https://github.com/mw-it" target="_blank">Walid Moussa (MW) on GitHub</a>
 
