@@ -39,7 +39,14 @@ It is suitable for children, adults, and especially for newly converted members 
         + [x] German
     + [ ] Quran audio
     + [ ] Quran Tafsir
+        + [ ] Al Jalalain
+        + [ ] Al Qurtubi
+        + [ ] . . .
 + [ ] Hadith collections
+    + [ ] Bukhari
+    + [ ] Muslim
+    + [ ] Tirmidi
+    + [ ] . . .
 + [o] Dua collections
     + [x] Quran
     + [ ] Sunnah
@@ -51,6 +58,8 @@ It is suitable for children, adults, and especially for newly converted members 
         + [ ] Audio tutorial
         + [ ] Video tutorial
 + [x] Tasbih counter
++ [ ] Mosques map
++ [ ] Online Courses
 + [ ] Android APP
 + [ ] iOS APP
 
