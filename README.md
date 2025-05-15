@@ -1,12 +1,16 @@
 # ISLAMBASE
 Reading about the Quran, Sunnah, Dua, Islam quiz, Hadith, prayer, supplication, mosque, fasting in Ramadan and many interesting topics about Islam.
 
+
+
 ## ISLAMQUIZ FROM ISLAMBASE
 NEW NOW!
 
 The ISLAM QUIZ from ISLAMBASE includes more than 200 questions and answers.
 
 It is suitable for children, adults, and especially for newly converted members of the faith.
+
+
 
 ## LINK STRUCTURE
 + [ISLAMBASE](https://islambase.de)
@@ -18,6 +22,41 @@ It is suitable for children, adults, and especially for newly converted members 
     + [99 Namen](https://islambase.de/99namen)
     + [Alphabet](https://islambase.de/alphabet)
 
+
+
+## Features (planned)
++ [ ] 5 Pillars of Islam
++ [ ] 6 Pillars of Iman
++ [ ] Stories of the Prophets (as)
++ [ ] Stories of the Companions (Sahaba) (ra)
++ [ ] Prayer
+    + [ ] How to wash for praying (Wudhu)
+    + [ ] How to pray
+    + [ ] Prayer times
++ [o] Quran
+    + [x] Arabic version
+    + [x] Quran tranlsation
+        + [x] German
+    + [ ] Quran audio
+    + [ ] Quran Tafsir
++ [ ] Hadith collections
++ [o] Dua collections
+    + [x] Quran
+    + [ ] Sunnah
++ [o] 99 names of ALLAH
++ [o] Arabic Alphabet
+    + [x] Abjad Alphabet
+    + [x] Letter values
+    + [o] Pronouncing
+        + [ ] Audio tutorial
+        + [ ] Video tutorial
++ [x] Tasbih counter
++ [ ] Android APP
++ [ ] iOS APP
+
+> [ ] planned, [o] in progress, [x] done
+
+
 ## Find + Follow + Support
 Web: <a href="https://islambase.de" target="_blank">https://islambase.de</a>
 
@@ -26,6 +65,8 @@ Email: <a href="mailto:mail@islambase.de" target="_blank">Email</a>
 GitHub: <a href="https://github.com/mw-it/islambase" target="_blank">GitHub</a>
 
 Donation: <a href="https://donate.stripe.com/dR69BS7MA79l2ycfZ1" target="_blank">Donation-Link</a>
+
+
 
 ## Copyright + License
 Author: <a href="https://walid-moussa.de" target="_blank">Walid Moussa (MW)</a> | <a href="https://github.com/mw-it" target="_blank">Walid Moussa (MW) on GitHub</a>
