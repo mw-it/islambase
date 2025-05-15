@@ -13,14 +13,14 @@ It is suitable for children, adults, and especially for newly converted members 
 
 
 ## LINK STRUCTURE
-+ [ISLAMBASE](https://islambase.de)
-    + [Koran](https://islambase.de/koran)
-    + [Koran-Suche](https://islambase.de/koran-suche)
-    + [Dua / Dhikr](https://islambase.de/dua)
-    + [Islamquiz](https://islambase.de/islamquiz)
-    + [Tasbih](https://islambase.de/tasbih)
-    + [99 Namen](https://islambase.de/99namen)
-    + [Alphabet](https://islambase.de/alphabet)
++ <a href="https://islambase.de" target="_blank">ISLAMBASE</a>
+    + <a href="https://islambase.de/koran" target="_blank">Koran</a>
+    + <a href="https://islambase.de/koran-suche" target="_blank">Koran-Suche</a>
+    + <a href="https://islambase.de/dua" target="_blank">Dua / Dhikr</a>
+    + <a href="https://islambase.de/islamquiz" target="_blank">Islamquiz</a>
+    + <a href="https://islambase.de/tasbih" target="_blank">Tasbih</a>
+    + <a href="https://islambase.de/99namen" target="_blank">99 Namen</a>
+    + <a href="https://islambase.de/alphabet" target="_blank">Alphabet</a>
 
 
 
@@ -55,6 +55,32 @@ It is suitable for children, adults, and especially for newly converted members 
 + [ ] iOS APP
 
 > [ ] planned, [o] in progress, [x] done
+
+
+
+## SUPPORT ISLAMBASE
+We operate according to a simple principle of Islam taught by the beloved Prophet Muhammad (peace and blessings be upon him).
+
+"The best person is the one who is of use to other people." - Prophet Muhammad (peace and blessings be upon him)
+
+ISLAMBASE is developed under the <a href="https://licenseforhumanity.org" target="_blank">"License for Humanity"</a> license. ISLAMBASE will be continually expanded with new features and pages. Maintaining the website, updating existing utilities, and planning and creating new features require significant time and expense (especially for hosting).
+
+Do you like ISLAMBASE and would you like to contribute?
+
+There are several ways you can support the development and expansion of ISLAMBASE:
+
+{1} Make dua. Supplications to Allah for us, for all Muslims throughout the world, for the needy, for the sick, and for humanity.
+
+{2} Send us any bug reports you find to <a href="mailto:mail@islambase.de" target="_blank">mail@islambase.de</a>. These include grammatical errors, spelling mistakes, or other corrections, especially in translations. This will help us provide a better user experience for everyone.
+
+{3} Send us your feedback to <a href="mailto:mail@islambase.de" target="_blank">mail@islambase.de</a> and make suggestions on how we can improve your experience on ISLAMBASE.
+
+{4} Would you like to actively help and volunteer? Contact us at <a href="mailto:mail@islambase.de" target="_blank">mail@islambase.de</a>
+
+{5} You can make a one-time or recurring financial contribution using the "Make a Contribution" button. You decide how much you want to support ISLAMBASE with. Of course, you can send your financial support directly to us via bank transfer. Please be sure to indicate ISLAMBASE as the intended purpose. You can find the bank details in the Legal Information section.
+
+Every contribution helps us secure funding for ISLAMBASE and, in the long term, expand it with many planned features and accelerate its development.
+
 
 
 ## Find + Follow + Support
