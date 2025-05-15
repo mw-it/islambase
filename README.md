@@ -24,15 +24,20 @@ It is suitable for children, adults, and especially for newly converted members 
 
 
 
-## Features (planned)
+## Features / Functions / Content
 + [ ] 5 Pillars of Islam
+
 + [ ] 6 Pillars of Iman
+
 + [ ] Stories of the Prophets (as)
+
 + [ ] Stories of the Companions (Sahaba) (ra)
+
 + [ ] Prayer
     + [ ] How to wash for praying (Wudhu)
     + [ ] How to pray
     + [ ] Prayer times
+
 + [o] Quran
     + [x] Arabic version
     + [x] Quran tranlsation
@@ -42,25 +47,34 @@ It is suitable for children, adults, and especially for newly converted members 
         + [ ] Al Jalalain
         + [ ] Al Qurtubi
         + [ ] . . .
+
 + [ ] Hadith collections
     + [ ] Bukhari
     + [ ] Muslim
     + [ ] Tirmidi
     + [ ] . . .
+
 + [o] Dua collections
     + [x] Quran
     + [ ] Sunnah
+
 + [o] 99 names of ALLAH
+
 + [o] Arabic Alphabet
     + [x] Abjad Alphabet
     + [x] Letter values
     + [o] Pronouncing
         + [ ] Audio tutorial
         + [ ] Video tutorial
+
 + [x] Tasbih counter
+
 + [ ] Mosques map
+
 + [ ] Online Courses
+
 + [ ] Android APP
+
 + [ ] iOS APP
 
 > [ ] planned, [o] in progress, [x] done
@@ -92,7 +106,7 @@ Every contribution helps us secure funding for ISLAMBASE and, in the long term, 
 
 
 
-## Find + Follow + Support
+## Find + Follow
 Web: <a href="https://islambase.de" target="_blank">https://islambase.de</a>
 
 Email: <a href="mailto:mail@islambase.de" target="_blank">Email</a>
